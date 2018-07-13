@@ -1,0 +1,8 @@
+org/example/models/UserDao.class
+org/example/services/UserService.class
+org/example/Application.class
+org/example/configs/ThymeleafConfiguration.class
+org/example/models/User.class
+org/example/controllers/UserController.class
+org/example/controllers/MainController.class
+org/example/configs/DatabaseConfig.class
